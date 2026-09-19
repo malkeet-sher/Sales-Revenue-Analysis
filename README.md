@@ -4,7 +4,7 @@
 
 This project analyzes sales data to understand revenue performance, product performance, category performance, and monthly sales trends.
 
-The project uses Python, SQL, and Power BI to perform data analysis and create business insights.
+The project uses Python, SQL, and Tableau Public to perform data analysis and create business insights.
 
 ## Tools & Technologies
 
