@@ -14,7 +14,7 @@ The project uses Python, SQL, and Power BI to perform data analysis and create b
 - Matplotlib
 - SQL
 - SQLite
-- Power BI
+- Tableau Public
 
 ## Dataset
 
