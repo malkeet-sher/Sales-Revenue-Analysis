@@ -87,4 +87,4 @@ Sales-Revenue-Analysis/
 
 The interactive dashboard was created using Tableau Public.
 
-[View Sales & Revenue Analysis Dashboard](https://public.tableau.com/app/profile/malkeet.singh3211/viz/Sales-Revenue-Analysis/SalesRevenueAnalysisDashboard)
+[View Sales & Revenue Analysis Dashboard](https://public.tableau.com/views/Sales-Revenue-Analysi/SalesRevenueAnalysisDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
