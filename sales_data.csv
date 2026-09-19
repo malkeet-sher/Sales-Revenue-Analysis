@@ -1,0 +1,13 @@
+Date,Product,Category,Quantity,Price,Revenue
+2026-01-05,Laptop,Electronics,2,55000,110000
+2026-01-08,Mouse,Accessories,10,800,8000
+2026-01-12,Keyboard,Accessories,5,1500,7500
+2026-01-15,Monitor,Electronics,3,12000,36000
+2026-01-20,Laptop,Electronics,1,55000,55000
+2026-02-03,Headphones,Accessories,8,2500,20000
+2026-02-10,Mouse,Accessories,15,800,12000
+2026-02-18,Monitor,Electronics,4,12000,48000
+2026-02-25,Keyboard,Accessories,7,1500,10500
+2026-03-02,Laptop,Electronics,3,55000,165000
+2026-03-10,Headphones,Accessories,6,2500,15000
+2026-03-18,Monitor,Electronics,2,12000,24000
